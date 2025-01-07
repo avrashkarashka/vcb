@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+}
+header{
+    margin-top: 32px;
+}
+h1 {
+    text-align: center;
+}
+.header-p {
+    text-align: center;
+    margin-top: 8px;
+}
+.span {
+    color: white;
+    background-color: rgb(255, 0, 0);
+    padding: 2px 4px;
+}
+.blog-centry{
+    text-align: center;
+}
+main{
+    width: 80%;
+    margin: 32px auto;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+section{
+    width: 65%;
+    float: left;
+}
+article {
+    margin-bottom: 24px;
+    box-shadow: 1px 0,5px 10px rgb(0, 0, 0);
+}
+.blog-centry{
+    padding: 12px;
+}
+h5{
+    margin-top: 8px;
+}
+.blog{
+    color: rgb(0, 0, 0);
+}
+.blog-description{
+    margin-top: 24px;
+}
+button{
+    padding: 8px 12px;
+    border: 1px solid rgb(255, 0, 0);
+}  
+.comment{
+    float: right;
+    margin-top: 8px;
+}  
+.blog-nuber{
+    color: white;
+    background-color: rgb(255, 0, 0);
+    padding: 2px 4px;
+}
+.riht-container{
+    float: right;
+    margin-left: 5%;
+    width: 30%;
+}
+aside{
+    box-shadow: 1px 0,5 10px rgb(0, 0, 0);
+}
+.menu-p{
+    margin-top: 8px;
+}
+.menu-content{
+    padding: 12px;
+}
